@@ -11,7 +11,7 @@ Foto yang diambil/dipilih ditampilkan di halaman yang sama.
 ### 2. Notifikasi
 Setelah foto berhasil diambil atau dipilih, tampilkan notifikasi lokal menggunakan flutter_local_notifications dengan isi pesan bebas.
 
-## Output yang dikumpulkan dalam bentuk LINK REPO INDIVIDU, isi folder pada repo meliputi :
+## Output yang dikumpulkan meliputi :
 - Screenshot hasilnya
 - Source code
 - Penjelasan singkat tiap widget
