@@ -562,7 +562,7 @@ class _HomePageState extends State<HomePage> {
 ### Hasil & Notifikasi
 <img src="Images/Gambar3.jpeg" width="250">
 
-### Tampilan Foto dari ampil dari Galeri
+### Tampilan Foto dari ambil dari Galeri
 <img src="Images/Gambar4.jpeg" width="250">
 
 ### Hasil & Notifikasi
