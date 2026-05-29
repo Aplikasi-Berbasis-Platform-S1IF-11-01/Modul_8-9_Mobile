@@ -181,19 +181,6 @@ flutter_local_notifications: ^17.0.0
 └── Notifikasi lokal tanpa server/internet
 ```
 
-
-## 📱 Screenshot Hasil
-
-### Tampilan Utama (Sebelum Foto Dipilih)
-
-
-
-### Tampilan Setelah Foto Dipilih
-
-
-### Tampilan Notifikasi
-
-
 ## 💻 Source Code
 
 ### `pubspec.yaml`
