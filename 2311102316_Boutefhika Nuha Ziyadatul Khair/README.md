@@ -171,7 +171,7 @@ Future<void> _takePhoto() async {
 | **`DarwinNotificationDetails`** | Konfigurasi notifikasi spesifik iOS/macOS: izin alert, badge, dan sound. |
 | **`NotificationDetails`** | Wrapper yang menggabungkan konfigurasi Android dan iOS menjadi satu objek untuk semua platform. |
 
-## 📦 Dependencies
+## Dependencies
 
 ```
 image_picker: ^1.0.7
@@ -181,7 +181,7 @@ flutter_local_notifications: ^17.0.0
 └── Notifikasi lokal tanpa server/internet
 ```
 
-## 💻 Source Code
+## Source Code
 
 ### `pubspec.yaml`
 
@@ -551,7 +551,7 @@ class _HomePageState extends State<HomePage> {
 }
 ```
 
-## 📱 Screenshot Hasil
+## Screenshot Hasil
 
 ### Tampilan Awal
 <img src="Images/Gambar1.jpeg" width="250">
