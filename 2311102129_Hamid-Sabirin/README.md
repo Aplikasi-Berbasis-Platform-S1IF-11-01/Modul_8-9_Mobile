@@ -244,3 +244,6 @@ Berikut adalah tangkapan layar (*screenshot*) hasil eksekusi aplikasi API Kamera
 
 ![notifikasi](assets/notifikasi.png)
 
+### D. Tampilan Foto Galeri (Pilih Foto Galeri)
+
+![notifikasi](assets/pilih.png)
