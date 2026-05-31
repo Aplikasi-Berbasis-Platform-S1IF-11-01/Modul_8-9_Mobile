@@ -32,7 +32,7 @@
 
 ## 1. Landasan Teori
 
-### A. Flutter, Font, dan Text Field
+### A. Notifikasi dan Kamera
 Aplikasi mobile modern sering kali dituntut untuk berinteraksi langsung dengan perangkat keras (hardware) dan sistem operasi bawaan dari smartphone. Dua fitur yang sangat sering digunakan adalah kamera untuk menangkap peristiwa secara real-time atau mengambil gambar dari galeri, serta sistem notifikasi untuk memberikan umpan balik (feedback) instan kepada pengguna. Integrasi hardware dan fitur sistem operasi ini membuat aplikasi menjadi lebih interaktif, responsif, dan memberikan pengalaman pengguna (user experience) yang lebih kaya.
 
 Dalam ekosistem Flutter, akses ke fitur bawaan perangkat keras dipermudah melalui mekanisme plugins yang menjembatani kode Dart dengan API native (Android dan iOS). Melalui manajemen state yang dinamis seperti StatefulWidget, Flutter mampu memperbarui tampilan layar secara instan begitu data dari perangkat keras—seperti file gambar hasil tangkapan kamera—berhasil didapatkan oleh sistem.
