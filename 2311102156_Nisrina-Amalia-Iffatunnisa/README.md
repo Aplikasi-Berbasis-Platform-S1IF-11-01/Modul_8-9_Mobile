@@ -33,11 +33,11 @@
 ## 1. Landasan Teori
 
 ### A. Notifikasi dan Kamera
-Aplikasi mobile modern sering kali dituntut untuk berinteraksi langsung dengan perangkat keras (hardware) dan sistem operasi bawaan dari smartphone. Dua fitur yang sangat sering digunakan adalah kamera untuk menangkap peristiwa secara real-time atau mengambil gambar dari galeri, serta sistem notifikasi untuk memberikan umpan balik (feedback) instan kepada pengguna. Integrasi hardware dan fitur sistem operasi ini membuat aplikasi menjadi lebih interaktif, responsif, dan memberikan pengalaman pengguna (user experience) yang lebih kaya.
+Aplikasi mobile modern sering kali dituntut untuk berinteraksi langsung dengan perangkat keras (hardware) dan sistem operasi bawaan dari smartphone. Dua fitur yang sangat sering digunakan adalah kamera untuk menangkap peristiwa secara real-time atau mengambil gambar dari galeri, serta sistem notifikasi untuk memberikan umpan balik (feedback) instan kepada pengguna. Integrasi hardware dan fitur sistem operasi ini membuat aplikasi menjadi lebih interaktif, responsif, dan memberikan pengalaman pengguna (user experience).
 
-Dalam ekosistem Flutter, akses ke fitur bawaan perangkat keras dipermudah melalui mekanisme plugins yang menjembatani kode Dart dengan API native (Android dan iOS). Melalui manajemen state yang dinamis seperti StatefulWidget, Flutter mampu memperbarui tampilan layar secara instan begitu data dari perangkat keras—seperti file gambar hasil tangkapan kamera—berhasil didapatkan oleh sistem.
+Dalam ekosistem Flutter, akses ke fitur bawaan perangkat keras dipermudah melalui mekanisme plugins yang menjembatani kode Dart dengan API native (Android dan iOS). Melalui manajemen state yang dinamis seperti StatefulWidget, Flutter mampu memperbarui tampilan layar secara instan dari perangkat keras, seperti file gambar hasil tangkapan kamera berhasil didapatkan oleh sistem.
 
-Selain interaksi visual di dalam aplikasi, komunikasi di luar aplikasi juga sangat penting. Di sinilah notifikasi lokal (local notifications) berperan. Berbeda dengan push notification yang memerlukan server eksternal, notifikasi lokal dijadwalkan dan dipicu langsung oleh aplikasi dari dalam perangkat itu sendiri. Fitur ini sangat efektif untuk memberikan konfirmasi instan mengenai status proses yang sedang berjalan, seperti memberi tahu pengguna bahwa sebuah aksi telah sukses dilakukan.
+Selain interaksi visual di dalam aplikasi, komunikasi di luar aplikasi juga sangat penting. Di sinilah notifikasi lokal (local notifications) berperan. Berbeda dengan push notification yang memerlukan server eksternal, notifikasi lokal dijadwalkan dan dipicu langsung oleh aplikasi dari dalam perangkat itu sendiri. Fitur ini sangat efektif untuk memberikan konfirmasi instan mengenai status proses yang sedang berjalan.
 
 ## 2. Sourcecode 
 ### Sourcecode main.dart
