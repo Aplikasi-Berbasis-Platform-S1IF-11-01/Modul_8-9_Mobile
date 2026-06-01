@@ -2,7 +2,7 @@
   <br />
   <h1>LAPORAN PRAKTIKUM <br>APLIKASI BERBASIS PLATFORM</h1>
   <br />
-  <h2>MODUL 7 FLUTTER </h2>
+  <h2>MODUL 8 & 9 FLUTTER </h2>
   <br /><br />
 
   <img src="assets/Logo.png" alt="Logo" width="300">
