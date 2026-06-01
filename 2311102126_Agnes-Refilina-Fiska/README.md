@@ -4,7 +4,7 @@
   <br />
   <h3> Modul 08-09 Mobile <br> Notifikasi & API Perangkat Keras </h3>
   <br />
-  <img src="./assets/logo.png" alt="Logo" width="300"> 
+  <img src="./aset/logo.png" alt="Logo" width="300"> 
   <br />
   <br />
   <br />
@@ -674,9 +674,10 @@ flutter:
 
 ### 3. Hasil Penugasan
 
-![Tampilan](./assets/ss3.jpeg)
-![Tampilan](./assets/ss2.jpeg)
-![Tampilan](./assets/ss1.jpeg)
+![Tampilan](./aset/1.png)
+![Tampilan](./aset/2.png)
+![Tampilan](./aset/3.png)
+![Tampilan](./aset/4.png)
 
 ## 4. Penjelasan
 
