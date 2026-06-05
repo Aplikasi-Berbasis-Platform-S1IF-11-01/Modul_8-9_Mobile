@@ -32,6 +32,7 @@ Apri Pandu Wicaksono | Rangga Pradarrell Fathi
 
 ## Dasar Teori
 
+
 ### 1. Akses Perangkat Keras pada Flutter
 
 Flutter adalah framework open-source dari Google yang digunakan untuk membuat aplikasi mobile lintas platform menggunakan bahasa Dart. Salah satu hal yang perlu diperhatikan saat mengembangkan aplikasi dengan Flutter adalah bagaimana cara mengakses fitur-fitur hardware pada perangkat, seperti kamera, galeri, dan notifikasi.
